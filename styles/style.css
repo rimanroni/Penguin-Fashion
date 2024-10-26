@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-body{
-    font-family: "Bebas Neue", sans-serif
-}
+
 .btn{
     background-color: #A4BC46;
     color: white
 }
-@tailwind base;
-@tailwind components;
-@tailwind utilities; 
+.img{
+    background-color: #F1F1F1;
+}
+ 
